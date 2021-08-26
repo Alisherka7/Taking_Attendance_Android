@@ -6,7 +6,7 @@
     <img src="https://user-images.githubusercontent.com/38793933/130923074-20ba24f3-50c8-4f84-8abb-1da2b06e0f79.jpg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Taking Attendance</h3>
+  <h3 align="center">Taking Attendance Project</h3>
 
   <p align="center">
 <!--     
