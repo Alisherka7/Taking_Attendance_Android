@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Alisherka7/Taking_Attendance">
-    <img src="https://user-images.githubusercontent.com/38793933/130923074-20ba24f3-50c8-4f84-8abb-1da2b06e0f79.jpg" alt="Logo" width="80" height="80">
+    <img src="https://user-images.githubusercontent.com/38793933/134091750-b25e41d5-5b90-4199-a35a-5c17c27b6405.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Taking Attendance Project</h3>
