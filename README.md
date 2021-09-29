@@ -8,10 +8,8 @@
 
   <h3 align="center">Taking Attendance Project</h3>
 
-    <p align="center">
-    
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+   <p align="center">
+    전자출결 시스템
     <br />
     <br />
     <a href="https://www.youtube.com/watch?v=ULktl23fNMI">View Demo</a>
@@ -31,8 +29,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#system_design">System Design</a></li>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#system-design">System Design</a></li>
       </ul>
     </li>
 <!--     <li>
@@ -57,9 +54,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-
-
+![изображение](https://user-images.githubusercontent.com/38793933/135266119-003b1d11-9976-4966-8299-33aac105f3d6.png)
 
 
 
