@@ -57,18 +57,26 @@
 ![изображение](https://user-images.githubusercontent.com/38793933/135266119-003b1d11-9976-4966-8299-33aac105f3d6.png)
 
 This is a solo project to check student attendance with the implementation of a complete system such as Database, Admin Panel and Mobile Application with source code<br>
-##### <b> Taking Attendance Project </b> was created in order to gain experience and share what I did.
+##### <b> Taking Attendance Project </b> was created in order to gain experience and share what I did :smile: .
 
 
 
 ### System Design
 ![img](https://user-images.githubusercontent.com/38793933/130924242-0e5cb29a-a6cd-4baf-a17b-d41f28052ca1.png)
 
-##### for implement this project I used
+<b> for implement this project I used </b>
 * Mobile Appication: <a href="https://www.java.com/ru/">Java</a>, <a href="https://developer.android.com/studio">Android Studio</a>
 * DataBase: <a href="https://www.mongodb.com/" >MongoDB</a>
 * Admin Panel: <a href="https://ru.reactjs.org/">ReactJS</a>, <a href="https://nodejs.org/en/" >NodeJS</a>
 
+
+
+<b> Mobile Application Scenario</b>
+![изображение](https://user-images.githubusercontent.com/38793933/135270161-118e7fca-d1bb-4dd0-98d2-775583cce911.png)
+
+
+<b> Admin Web Panel Scenario </b>
+![изображение](https://user-images.githubusercontent.com/38793933/135270479-1d8de284-8454-49c9-be32-556111707399.png)
 
 
 ## Getting Started
