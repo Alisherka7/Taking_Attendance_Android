@@ -17,6 +17,8 @@
     <a href="https://github.com/Alisherka7/Taking_Attendance/issues">Report Bug</a>
     ·
     <a href="https://github.com/Alisherka7/Taking_Attendance/pulls">Request Feature</a>
+    ·
+    <a href="https://github.com/Alisherka7/Taking_Attendance_AdminPanel/tree/main">Admin Panel</a>
   </p>
 </p>
 
@@ -54,10 +56,13 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-![изображение](https://user-images.githubusercontent.com/38793933/135266119-003b1d11-9976-4966-8299-33aac105f3d6.png)
+
 
 This is a solo project to check student attendance with the implementation of a complete system such as Database, Admin Panel and Mobile Application with source code<br>
 ##### <b> Taking Attendance Project </b> was created in order to gain experience and share what I did :smile: .
+
+![изображение](https://user-images.githubusercontent.com/38793933/135266119-003b1d11-9976-4966-8299-33aac105f3d6.png)
+
 
 
 
