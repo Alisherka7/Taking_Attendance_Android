@@ -8,7 +8,7 @@
 
   <h3 align="center">Taking Attendance Project</h3>
 
-  <p align="center">
+    <p align="center">
     
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
