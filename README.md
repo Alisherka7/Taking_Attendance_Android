@@ -6,7 +6,7 @@
     <img src="https://user-images.githubusercontent.com/38793933/134091750-b25e41d5-5b90-4199-a35a-5c17c27b6405.png" alt="Logo" width="140" height="155">
   </a>
 
-  <h3 align="center">Taking Attendance Project</h3>
+  <h3 align="center">Taking Attendance Project - Mobile Application(Android)</h3>
 
    <p align="center">
     전자출결 시스템
