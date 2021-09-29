@@ -70,6 +70,7 @@ This is a solo project to check student attendance with the implementation of a 
 ![img](https://user-images.githubusercontent.com/38793933/130924242-0e5cb29a-a6cd-4baf-a17b-d41f28052ca1.png)
 
 <b> for implement this project I used </b>
+* Design Template: <a href="https://www.figma.com/community/file/1021932913914731390/%EC%A0%84%EC%9E%90%EC%B6%9C%EA%B2%B0"> Taking Attendance Project My Design Package (Figma)</a>
 * Mobile Appication: <a href="https://www.java.com/ru/">Java</a>, <a href="https://developer.android.com/studio">Android Studio</a>
 * DataBase: <a href="https://www.mongodb.com/" >MongoDB</a>
 * Admin Panel: <a href="https://ru.reactjs.org/">ReactJS</a>, <a href="https://nodejs.org/en/" >NodeJS</a>
