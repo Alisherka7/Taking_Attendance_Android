@@ -65,9 +65,9 @@ This is a solo project to check student attendance with the implementation of a 
 ![img](https://user-images.githubusercontent.com/38793933/130924242-0e5cb29a-a6cd-4baf-a17b-d41f28052ca1.png)
 
 ##### for implement this project I used
-* Mobile Appication: Java, Android Studio
-* DataBase: MongoDB
-* Admin Panel: ReactJS, NodeJS
+* Mobile Appication: <a href="https://www.java.com/ru/">Java</a>, <a href="https://developer.android.com/studio">Android Studio</a>
+* DataBase: <a href="https://www.mongodb.com/" >MongoDB</a>
+* Admin Panel: <a href="https://ru.reactjs.org/">ReactJS</a>, <a href="https://nodejs.org/en/" >NodeJS</a>
 
 
 
