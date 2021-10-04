@@ -98,6 +98,8 @@ This is a solo project to check student attendance with the implementation of a 
 
 ## License
 
+Distributed under the MIT License. See LICENSE for more information.
+
 ## Contact
 
 ## Acknowledgements
