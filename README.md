@@ -102,7 +102,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Alisher: Instagram - [@sorry_but_im_monster](https://www.instagram.com/sorry_but_im_monster/) - alisherka0151@gmail.com
+:v: Alisher: Instagram - [@sorry_but_im_monster](https://www.instagram.com/sorry_but_im_monster/) - alisherka0151@gmail.com :e-mail:
 
 Taking Attendance Project: [Taking_Attendance_Android/issues](https://github.com/Alisherka7/Taking_Attendance_Android/issues)
 
