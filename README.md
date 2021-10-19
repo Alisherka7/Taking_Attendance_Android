@@ -77,17 +77,21 @@ This is a solo project to check student attendance with the implementation of a 
 
 
 
-<b> Mobile Application Scenario</b>
-![изображение](https://user-images.githubusercontent.com/38793933/135270161-118e7fca-d1bb-4dd0-98d2-775583cce911.png)
-
-
-<b> Admin Web Panel Scenario </b>
-![изображение](https://user-images.githubusercontent.com/38793933/135270479-1d8de284-8454-49c9-be32-556111707399.png)
+<b> Development schedule </b>
+![изображение](https://user-images.githubusercontent.com/38793933/137988663-4a99bb3f-6794-43b0-8783-e3aa8d8efc71.png)
 
 
 ## Getting Started
 
 ### Prerequisites
+  MongoDB implementation
+  - 1: Create new cluster <br>
+  ![изображение](https://user-images.githubusercontent.com/38793933/137989613-5432515d-e6f9-4e5c-a85d-a3471e7aa189.png)
+  - 2: implement a database and collection
+  - 3: Add connection string into your application code
+  ```JS
+   mongodb+srv://"<b>yourLogin</b>":"<b>YourPassowrdpassword</b>"@cluster0.1h6j9.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+   ```
 ### Installation
 
 ## Usage
